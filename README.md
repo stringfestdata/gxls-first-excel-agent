@@ -4,3 +4,7 @@ AI Comes to Excel: Building Your First AI Agent - A hands-on session introducing
 
 
 <!--- https://chatgpt.com/c/68f8f509-00a0-8326-a7d7-db5f0aa5245b ---> 
+
+
+Resourcesa: https://blog.tobiaszwingmann.com/p/integration-automation-ai-framework
+https://docs.google.com/document/d/1HkgKBypzRhBA5FCPIO6DsduhIRSe4H3F_Ikk-HASqN8/edit?usp=sharing
